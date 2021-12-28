@@ -1,2 +1,2 @@
 # hangman
-Command Line Version Of the Hangman Game
+Command Line Version of The Hangman Game
